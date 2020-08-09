@@ -12,4 +12,4 @@ GET http://localhost:12002/currency - list of all currencies in db
 
 GET http://localhost:12002/currency?per-page=1 - list of all currencies in db with pagination 
 
-GET http://localhost:12002/currency/<id> - currency by id
+GET http://localhost:12002/currency/1 - currency by id
